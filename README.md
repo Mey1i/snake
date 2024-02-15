@@ -26,7 +26,7 @@ Hello! This is a simple Snake game written in Python using the Pygame library.
 5. Run the game:
 
     ```bash
-    python your_code_file.py
+    python main.py
     ```
 
 ## Controls
