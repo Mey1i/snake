@@ -43,6 +43,4 @@ Hello! This is a simple Snake game written in Python using the Pygame library.
 - Avoid collisions with the edges of the screen and your own tail.
 - The game ends upon collision. Press "R" to restart.
 
-## License
 
-This project is licensed under the [license name]. See the LICENSE.md file for additional details.
